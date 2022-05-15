@@ -33,7 +33,7 @@ int main() {
 
 	//Doc file username password
 	fstream inFile;
-	inFile.open("C:\\test_server\\unpwd.txt", ios::in);
+	inFile.open("C:\\Users\\Admin\\Doccuments\\text2", ios::in);
 	char uname[21], passw[20];
 	//Kiem tra uname voi password lien tuc
 
